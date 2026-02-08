@@ -1,0 +1,69 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`SearchPage > should call search action with both name and strength parameters 1`] = `
+<div>
+  <div
+    data-testid="custom-jumbotron"
+  />
+  <div>
+    Loading...
+  </div>
+  <div
+    data-testid="search-controls"
+  />
+  <div>
+    Loading...
+  </div>
+</div>
+`;
+
+exports[`SearchPage > should call search action with name parameter 1`] = `
+<div>
+  <div
+    data-testid="custom-jumbotron"
+  />
+  <div>
+    Loading...
+  </div>
+  <div
+    data-testid="search-controls"
+  />
+  <div>
+    Loading...
+  </div>
+</div>
+`;
+
+exports[`SearchPage > should call search action with strength parameter 1`] = `
+<div>
+  <div
+    data-testid="custom-jumbotron"
+  />
+  <div>
+    Loading...
+  </div>
+  <div
+    data-testid="search-controls"
+  />
+  <div>
+    Loading...
+  </div>
+</div>
+`;
+
+exports[`SearchPage > should render SearchPage with default values 1`] = `
+<div>
+  <div
+    data-testid="custom-jumbotron"
+  />
+  <div>
+    Loading...
+  </div>
+  <div
+    data-testid="search-controls"
+  />
+  <div>
+    Loading...
+  </div>
+</div>
+`;
